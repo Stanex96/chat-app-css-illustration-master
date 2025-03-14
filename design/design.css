@@ -305,7 +305,6 @@ h1 {
     color: var(--Light-violet);
 }
 
-/* Media Query for screens between 350px and 750px */
 @media screen and (min-width: 350px) and (max-width: 750px) {
     .container {
         width: 90%;
